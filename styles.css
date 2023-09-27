@@ -1,11 +1,18 @@
 /*  your css code here. If applicable */
 .main{
 	width:1100px;
+	
 }
+
 .col-1{
 	width:200px;
 }
 .col-2{
 	width:600px;
 }
-
+tr{
+	text-align:center;
+}
+.col-1>img{
+	width:200px;
+}
